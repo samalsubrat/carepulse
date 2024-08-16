@@ -36,7 +36,7 @@ import { getUser } from '@/lib/actions/patient.actions'
       height={1000}
       width={1000}
       alt="onboardingdoctor"
-      className="side-img max-w-[35%]"
+      className="side-img max-w-[390px]"
     />
      </div>
    )
